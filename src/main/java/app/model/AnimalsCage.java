@@ -13,7 +13,8 @@ public class AnimalsCage {
 
     @Autowired
     private Timer time;
-    public Timer getTimer () {
+
+    public Timer getTimer() {
         return time;
     }
 
